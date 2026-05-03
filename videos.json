@@ -1,13 +1,12 @@
 [
   {
-    "url": "https://www.youtube.com/watch?v=C4thl7r2MB4",
-    "status": "done",
-    "title": "Extended Interview： Cillian Murphy",
+    "url": "https://www.youtube.com/watch?v=unz9ASHaxzQ",
+    "status": "pending",
+    "title": null,
     "release_tag": null,
     "release_url": null,
-    "added_at": "2026-05-03",
-    "downloaded_at": "2026-05-03",
-    "filename": "Extended_Interview_Cillian_Murphy.mp4",
-    "file_size_mb": 41.82
+    "error": null,
+    "added_at": "2026-05-04",
+    "downloaded_at": null
   }
 ]
